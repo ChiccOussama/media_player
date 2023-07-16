@@ -1,4 +1,4 @@
-MediaPlayer
+# MediaPlayer
 MediaPlayer is a powerful audio player application developed in C#, designed to provide a high-quality audio playback experience with added playlist functionality. With its sleek design and advanced features, MediaPlayer takes your audio listening to the next level.
 
 With the use of Bunifu DLL for design, MediaPlayer offers a visually appealing and intuitive user interface. The seamless integration of design and functionality ensures a smooth and enjoyable user experience.
