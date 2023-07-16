@@ -1,0 +1,12 @@
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\bin\Release\Music Player.exe.config
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\bin\Release\Music Player.exe
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\bin\Release\Music Player.pdb
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\bin\Release\taglib-sharp.dll
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\obj\Release\Music_Player.interfaceForm.resources
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\obj\Release\Music_Player.Properties.Resources.resources
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\obj\Release\Music Player.csproj.GenerateResource.Cache
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\obj\Release\Music Player.exe
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\obj\Release\Music Player.pdb
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\MP3-Player\Music Player\obj\Release\Music Player.csprojResolveAssemblyReference.cache
